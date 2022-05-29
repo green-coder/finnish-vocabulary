@@ -1108,26 +1108,178 @@
            {:finnish "keskellä"
             :english "in the middle of"}]}
 
-  #_
   {:name  "Love"
-   :words [{:finnish ""
-            :english ""}
-           {:finnish ""
-            :english ""}]}
+   :words [{:finnish "kulta"
+            :english "darling"}
+           {:finnish "tyttöystävä"
+            :english "girlfriend"}
+           {:finnish "poikaystävä"
+            :english "boyfriend"}
+           {:finnish "sulhanen"
+            :english "groom"}
+           {:finnish "morsian"
+            :english "bride"}
+           {:finnish "vaimo"
+            :english "wife"}
+           {:finnish "mies"
+            :english "husband"}
+           {:finnish "hymy"
+            :english "smile"}
+           {:finnish "sydän"
+            :english "heart"}
+           {:finnish "sisu"
+            :english "sisu, true grit"}
+           {:tags    [:verb]
+            :finnish "rakastaa"
+            :english "to love"}
+           {:tags    [:verb]
+            :finnish "halata"
+            :english "to hug"}
+           {:tags    [:verb]
+            :finnish "ihailla"
+            :english "to admire"}
+           {:tags    [:verb]
+            :finnish "ajatella"
+            :english "to think"}
+           {:tags    [:verb]
+            :finnish "olla ikävä"
+            :english "to miss"}
+           {:finnish "kaikki"
+            :english "everyone"}
+           {:finnish "ketä"
+            :english "whom (partitive)"}]}
 
-  #_
   {:name  "Yummy!"
-   :words [{:finnish ""
-            :english ""}
-           {:finnish ""
-            :english ""}]}
+   :words [{:finnish "leivos"
+            :english "pastry"}
+           {:finnish "piirakka"
+            :english "pie, pasty"}
+           {:finnish "korvapuusti"
+            :english "cinnamon roll"}
+           {:finnish "täytekakku"
+            :english "layered cake"}
+           {:finnish "viineri"
+            :english "Danish pastry"}
+           {:finnish "munkki"
+            :english "jelly doughnut"}
+           {:finnish "lörtsy"
+            :english "lörtsy"}
+           {:finnish "karjalanpiirakka"
+            :english "Karelian pasty"}
+           {:finnish "rahka"
+            :english "quark"}
+           {:finnish "kiisseli"
+            :english "kissel"}
+           {:finnish "kinuski"
+            :english "kinusk"}
+           {:finnish "karkki"
+            :english "candy"}
+           {:finnish "suklaa"
+            :english "chocolate"}
+           {:finnish "lakritsi"
+            :english "licorice"}
+           {:finnish "salmiakki"
+            :english "salmiakki"}
+           {:finnish "hillo"
+            :english "jam"}
+           {:finnish "sima"
+            :english "sima, mead"}
+           {:finnish "voi"
+            :english "butter"}
+           {:finnish "banaani"
+            :english "banana"}
+           {:finnish "herkku"
+            :english "delicacy, treat"}
+           {:finnish "raha"
+            :english "money"}
+           {:finnish "kahvila"
+            :english "café"}
+           {:tags    [:adjective]
+            :finnish "vahva"
+            :english "strong"}
+           {:tags    [:adjective]
+            :finnish "herkullinen"
+            :english "delicious"}
+           {:tags    [:adjective]
+            :finnish "suolainen"
+            :english "salty, savory"}
+           {:tags    [:verb]
+            :finnish "maksaa"
+            :english "to cost"}
+           {:tags    [:verb]
+            :finnish "ostaa"
+            :english "to buy"}
+           {:tags    [:verb]
+            :finnish "maistaa"
+            :english "to taste, to try (a dish)"}
+           {:tags    [:verb]
+            :finnish "sulaa"
+            :english "to melt"}
+           {:tags    [:verb]
+            :finnish "syödä"
+            :english "to eat"}
+           {:tags    [:verb]
+            :finnish "juoda"
+            :english "to drink"}
+           {:tags    [:verb]
+            :finnish "myydä"
+            :english "to sell"}
+           {:tags    [:verb]
+            :finnish "saada"
+            :english "to get"}
+           {:finnish "paljonko"
+            :english "how much"}
+           {:finnish "voi voi"
+            :english "uh-oh, oh dear"}]}
 
-  #_
   {:name  "O'Clock"
-   :words [{:finnish ""
-            :english ""}
-           {:finnish ""
-            :english ""}]}
+   :words [{:finnish "kello"
+            :english "clock, watch, time (when telling the time)"}
+           {:finnish "aamu"
+            :english "morning"}
+           {:finnish "päivä"
+            :english "day"}
+           {:finnish "ilta"
+            :english "evening"}
+           {:finnish "yö"
+            :english "night"}
+           {:finnish "iltapäivä"
+            :english "afternoon"}
+           {:finnish "kalenteri"
+            :english "calendar"}
+           {:finnish "minuutti"
+            :english "minute"}
+           {:finnish "sekunti"
+            :english "second (time)"}
+           {:finnish "hetki"
+            :english "moment (time)"}
+           {:finnish "kiire"
+            :english "business, hurry"}
+           {;:tags    [:adjective]
+            :finnish "myöhä"
+            :english "late"}
+           {:tags    [:adjective]
+            :finnish "väsynyt"
+            :english "tired"}
+           {:tags    [:verb]
+            :finnish "seisoa"
+            :english "to have stopped (clock, watch)"}
+           {:tags    [:number]
+            :finnish "yksitoista"
+            :english "eleven"}
+           {:tags    [:number]
+            :finnish "kaksitoista"
+            :english "twelve"}
+           {:finnish "puoli"
+            :english "half"}
+           {:finnish "joka"
+            :english "every (determiner)"}
+           {:finnish "paljonko"
+            :english "what (time)"}
+           {:finnish "tasan"
+            :english "even, exactly (time)"}
+           {:finnish "melkein"
+            :english "almost"}]}
 
   #_
   {:name  ""
