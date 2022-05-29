@@ -1,0 +1,1137 @@
+{:unit1
+ [{:name  "Hello!"
+   :words [{:finnish "terve"
+            :english "hello"}
+           {:finnish "minä"
+            :english "I"}
+           {:finnish "sinä"
+            :english "you"}
+           {:tags    [:adjective]
+            :finnish "mukava"
+            :english "nice"}
+           {:tags    [:verb]
+            :finnish "olla"
+            :english "to be"}
+           {:finnish "olen"
+            :english "(I) am"}
+           {:finnish "olet"
+            :english "(you) are"}
+           {:finnish "anteeksi"
+            :english "sorry, excuse me"}
+           {:finnish "kiitos"
+            :english "thank you"}
+           {:finnish "kuka"
+            :english "who"}]}
+
+  {:name  "Good Luck!"
+   :words [{:tags    [:adjective]
+            :finnish "hauska"
+            :english "funny"}
+           {:finnish "tervetuloa"
+            :english "welcome"}
+           {:finnish "onnea"
+            :english "good luck, congratulations"}
+           {:finnish "jee"
+            :english "yay"}
+           {:finnish "no"
+            :english "well"}
+           {:finnish "kippis"
+            :english "cheers"}
+           {:finnish "ja"
+            :english "and"}
+           {:finnish "paljon"
+            :english "a lot (of)"}]}
+
+  {:name  "Basics 1"
+   :words [{:finnish "mies"
+            :english "man"}
+           {:finnish "nainen"
+            :english "woman"}
+           {:finnish "lapsi"
+            :english "child"}
+           {:finnish "velho"
+            :english "wizard"}
+           {:finnish "hän"
+            :english "he, she"}
+           {:finnish "on"
+            :english "(he, she, it) is"}
+           {:tags    [:adjective]
+            :finnish "kaunis"
+            :english "beautiful"}
+           {:tags    [:adjective]
+            :finnish "komea"
+            :english "handsome"}
+           {:finnish "todella"
+            :english "really"}
+           {:finnish "aina"
+            :english "always"}]}
+
+  {:name  "Basics 2"
+   :words [{:finnish "Suomi"
+            :english "Finland"}
+           {:finnish "maa"
+            :english "country, land"}
+           {:finnish "sauna"
+            :english "sauna"}
+           {:finnish "kantele"
+            :english "kantele"}
+           {:finnish "soitin"
+            :english "instrument (music)"}
+           {:finnish "tyttö"
+            :english "girl"}
+           {:finnish "poika"
+            :english "boy"}
+           {:finnish "ihminen"
+            :english "person, human being"}
+           {:finnish "ystävä"
+            :english "friend"}
+           {:finnish "suomalainen"
+            :english "Finnish (adjective), Finn (person)"}
+           {:tags    [:adjective]
+            :finnish "hyvä"
+            :english "good, bravo"}
+           {:finnish "sisukas"
+            :english "with sisu (adjective)"}
+           {:finnish "uja"
+            :english "shy"}
+           {:tags    [:adjective]
+            :finnish "rehellinen"
+            :english "honest"}
+           {:tags    [:adjective]
+            :finnish "hiljainen"
+            :english "quiet, silent"}
+           {:finnish "tämä"
+            :english "this"}
+           {:finnish "herra"
+            :english "Mr."}
+           {:finnish "rouva"
+            :english "Ms."}]}
+
+  {:name  "Pets 1"
+   :words [{:finnish "pupu"
+            :english "bunny"}
+           {:finnish "undulaatti"
+            :english "parakeet"}
+           {:finnish "koira"
+            :english "dog"}
+           {:finnish "kissa"
+            :english "cat"}
+           {:finnish "poni"
+            :english "pony"}
+           {:finnish "käärme"
+            :english "snake"}
+           {:finnish "söpö"
+            :english "cute, adorable"}
+           {:tags    [:adjective]
+            :finnish "kiltti"
+            :english "well-behaved, nice, sweet, good"}
+           {:tags    [:adjective]
+            :finnish "tuhma"
+            :english "naughty"}
+           {:tags    [:adjective]
+            :finnish "pieni"
+            :english "small"}
+           {:tags    [:color]
+            :finnish "sininen"
+            :english "blue"}
+           {:tags    [:color]
+            :finnish "valkoinen"
+            :english "white"}
+           {:tags    [:color]
+            :finnish "musta"
+            :english "black"}
+           {:tags    [:color]
+            :finnish "vihreä"
+            :english "green"}
+           {:tags    [:number]
+            :finnish "yksi"
+            :english "one"}
+           {:finnish "se"
+            :english "it"}
+           {:finnish "tämä"
+            :english "this"}
+           {:finnish "minulla"
+            :english "I, (on) me"}
+           {:finnish "sinulla"
+            :english "(singular) you, (on) you"}
+           {:finnish "hänellä"
+            :english "s/he, (on) him/her"}
+           {:finnish "millainen"
+            :english "what kind of"}
+           {:finnish "väärin"
+            :english "(in an) incorrect (way), (in a) wrong (way)"}]}
+
+  {:name  "The North"
+   :words [{:tags    [:country]
+            :finnish "Islanti"
+            :english "Iceland"}
+           {:tags    [:country]
+            :finnish "Viro"
+            :english "Estonia"}
+           {:tags    [:country]
+            :finnish "Norja"
+            :english "Norway"}
+           {:tags    [:country]
+            :finnish "Ruotsi"
+            :english "Sweden"}
+           {:tags    [:country]
+            :finnish "Tanska"
+            :english "Denmark"}
+           {:tags    [:country]
+            :finnish "venäjä"
+            :english "Russia"}
+           {:finnish "kaupunki"
+            :english "city"}
+           {:finnish "laulu"
+            :english "song"}
+           {:finnish "shamaani"
+            :english "shaman"}
+           {:finnish "viikinki"
+            :english "Viking"}
+           {:finnish "bändi"
+            :english "band (pop, rock)"}
+           {:finnish "nimi"
+            :english "name"}
+           {:finnish "auto"
+            :english "car"}
+           {:finnish "kännykkä"
+            :english "cell phone"}
+           {:tags    [:adjective]
+            :finnish "kylmä"
+            :english "cold"}
+           {:tags    [:adjective]
+            :finnish "pohjoinen"
+            :english "northern, North"}
+           {:tags    [:adjective]
+            :finnish "iso"
+            :english "big"}
+           {:tags    [:adjective]
+            :finnish "saamelainen"
+            :english "Sámi"}
+           {:tags    [:adjective]
+            :finnish "islantilainen"
+            :english "Icelandic, Icelandic person"}
+           {:tags    [:adjective]
+            :finnish "virolainen"
+            :english "Estonian, Estonian person"}
+           {:tags    [:adjective]
+            :finnish "norjalainen"
+            :english "Norwegian, Norwegian person"}
+           {:tags    [:adjective]
+            :finnish "venäläinen"
+            :english "Russian, Russian person"}
+           {:tags    [:adjective]
+            :finnish "tanskalainen"
+            :english "Danish, Dane"}
+           {:tags    [:adjective]
+            :finnish "ruotsalainen"
+            :english "Swedish, Swede"}
+           {:finnish "onko"
+            :english "is, has (questions)"}
+           {:finnish "missä"
+            :english "(in) where"}]}
+
+  {:name  "Family"
+   :words [{:finnish "lemmikki"
+            :english "pet"}
+           {:finnish "äiti"
+            :english "mother"}
+           {:finnish "isä"
+            :english "father"}
+           {:finnish "mummo"
+            :english "grandma"}
+           {:finnish "vaari"
+            :english "grandpa"}
+           {:finnish "vauva"
+            :english "baby"}
+           {:finnish "pari"
+            :english "couple"}
+           {:finnish "lelu"
+            :english "toy"}
+           {:finnish "nalle"
+            :english "teddy"}
+           {:finnish "perhe"
+            :english "family"}
+           {:tags    [:adjective]
+            :finnish "onnellinen"
+            :english "happy, content"}
+           {:tags    [:adjective]
+            :finnish "iloinen"
+            :english "happy, jolly"}
+           {:tags    [:adjective]
+            :finnish "surullinen"
+            :english "sad"}
+           {:tags    [:adjective]
+            :finnish "nuori"
+            :english "young"}
+           {:finnish "me"
+            :english "we"}
+           {:finnish "te"
+            :english "you (plurial)"}
+           {:finnish "he"
+            :english "they"}
+           {:finnish "olemme"
+            :english "we are"}
+           {:finnish "olette"
+            :english "you (all) are"}
+           {:finnish "ovat"
+            :english "they are"}
+           {:tags    [:verb]
+            :finnish "nauraa"
+            :english "to laugh"}
+           {:tags    [:verb]
+            :finnish "laulaa"
+            :english "to sing"}
+           {:tags    [:verb]
+            :finnish "kasvaa"
+            :english "to grow"}
+           {:tags    [:verb]
+            :finnish "seisoa"
+            :english "to stand"}
+           {:tags    [:verb]
+            :finnish "istua"
+            :english "to sit"}
+           {:tags    [:verb]
+            :finnish "tanssia"
+            :english "to dance"}
+           {:tags    [:verb]
+            :finnish "itkeä"
+            :english "to cry"}
+           {:finnish "nyt"
+            :english "now"}
+           {:finnish "usein"
+            :english "often"}
+           {:finnish "harvoin"
+            :english "seldom"}
+           {:finnish "nopeasti"
+            :english "fast, quickly"}
+           {:finnish "naimisissa"
+            :english "married"}
+           {:finnish "yhdessä"
+            :english "together"}]}
+
+  {:name  "Home 1"
+   :words [{:finnish "koti"
+            :english "home"}
+           {:finnish "talo"
+            :english "house"}
+           {:finnish "asunto"
+            :english "apartment"}
+           {:finnish "huone"
+            :english "room (bedroom, bathroom, kitchen, etc.)"}
+           {:finnish "kellari"
+            :english "cellar, basement"}
+           {:finnish "veranta"
+            :english "veranda, porch"}
+           {:finnish "piha"
+            :english "yard"}
+           {:finnish "radio"
+            :english "radio"}
+           {:finnish "televisio"
+            :english "television"}
+           {:finnish "sohva"
+            :english "sofa, couch"}
+           {:finnish "pöytä"
+            :english "table"}
+           {:finnish "sänky"
+            :english "bed"}
+           {:finnish "uusi"
+            :english "new"}
+           {:finnish "vanha"
+            :english "old"}
+           {:finnish "suuri"
+            :english "large"}
+           {:finnish "lämmin"
+            :english "warm"}
+           {:finnish "mukava"
+            :english "comfortable, comfy (furniture, room, etc.)"}
+           {:finnish "oma"
+            :english "own"}
+           {:finnish "tuo"
+            :english "that"}
+           {:finnish "meillä"
+            :english "we, (on) us"}
+           {:finnish "teillä"
+            :english "(on) you (all)"}
+           {:finnish "heillä"
+            :english "they, (on) them"}
+           {:finnish "mutta"
+            :english "but"}]}
+
+  {:name  "Phrases 1"
+   :words [{:finnish "hei"
+            :english "hi, bye"}
+           {:finnish "ole hyvä"
+            :english "here you are"}
+           {:finnish "kyllä"
+            :english "(definite) yes"}
+           {:finnish "ei"
+            :english "no"}
+           {:finnish "joo"
+            :english "yes, yeah"}
+           {:finnish "kahvi"
+            :english "coffee"}
+           {:finnish "pulla"
+            :english "pulla (traditional, Finnish sweet bread)"}
+           {:finnish "au"
+            :english "ouch"}
+           {:finnish "oikein"
+            :english "correct, right"}
+           {:finnish "valmis"
+            :english "ready"}
+           {:finnish "kuuma"
+            :english "hot"}
+           {:finnish "kylmä"
+            :english "cold"}
+           {:finnish "oletko"
+            :english "are you (singular)"}]}
+
+  {:name  "Language 1"
+   :words [{:finnish "kieli"
+            :english "language"}
+           {:finnish "sana"
+            :english "word"}
+           {:finnish "lause"
+            :english "sentence"}
+           {:finnish "kysymys"
+            :english "question"}
+           {:finnish "vastaus"
+            :english "answer"}
+           {:finnish "aksentti"
+            :english "accent"}
+           {:finnish "murre"
+            :english "dialect"}
+           {:finnish "opettaja"
+            :english "teacher"}
+           {:finnish "suomi"
+            :english "Finnish (language)"}
+           {:finnish "viro"
+            :english "Estonian (language)"}
+           {:finnish "ranska"
+            :english "French (language)"}
+           {:finnish "espanja"
+            :english "Spanish (language)"}
+           {:finnish "japani"
+            :english "Japanese (language)"}
+           {:finnish "englanti"
+            :english "English (language)"}
+           {:finnish "kiina"
+            :english "Chinese (language)"}
+           {:finnish "saksa"
+            :english "German (language)"}
+           {:finnish "unkari"
+            :english "Hungarian (language)"}
+           {:finnish "korea"
+            :english "Korean (language)"}
+           {:tags    [:adjective]
+            :finnish "tärkeä"
+            :english "important"}
+           {:tags    [:adjective]
+            :finnish "vaikea"
+            :english "difficult"}
+           {:finnish "helppo"
+            :english "easy"}
+           {:finnish "aasialainen"
+            :english "Asian"}
+           {:finnish "niin"
+            :english "so, such"}
+           {:finnish "vai"
+            :english "or (exclusive)"}
+           {:finnish "miksi"
+            :english "why"}]}
+
+  {:name  "Barbecue"
+   :words [{:finnish "jano"
+            :english "thirst"}
+           {:finnish "nälkä"
+            :english "hunger"}
+           {:finnish "peruna"
+            :english "potato"}
+           {:finnish "tomaatti"
+            :english "tomato"}
+           {:finnish "omena"
+            :english "apple"}
+           {:finnish "sipuli"
+            :english "onion"}
+           {:finnish "sitruuna"
+            :english "lemon"}
+           {:finnish "salaatti"
+            :english "salad, lettuce"}
+           {:finnish "makkara"
+            :english "sausage"}
+           {:finnish "pihvi"
+            :english "steak, patty"}
+           {:finnish "kala"
+            :english "fish"}
+           {:finnish "kastike"
+            :english "sauce, dressing"}
+           {:finnish "mauste"
+            :english "spice"}
+           {:finnish "suola"
+            :english "salt"}
+           {:finnish "pippuri"
+            :english "pepper"}
+           {:finnish "ketsuppi"
+            :english "ketchup"}
+           {:finnish "sinappi"
+            :english "mustard"}
+           {:finnish "lasi"
+            :english "glass"}
+           {:finnish "lautanen"
+            :english "plate"}
+           {:finnish "haarukka"
+            :english "fork"}
+           {:finnish "veitsi"
+            :english "knife"}
+           {:finnish "vesi"
+            :english "water"}
+           {:finnish "grilli"
+            :english "grill"}
+           {:finnish "pyöreä"
+            :english "round"}
+           {:tags    [:color]
+            :finnish "punainen"
+            :english "red"}
+           {:tags    [:color]
+            :finnish "keltainen"
+            :english "yellow"}
+           {:finnish "ne"
+            :english "they (non-human)"}
+           {:finnish "tässä"
+            :english "right here"}
+           {:finnish "tuossa"
+            :english "right there"}
+           {:finnish "jo"
+            :english "already, yet"}
+           {:finnish "vielä"
+            :english "still, yet"}]}
+
+  {:name  "Sights"
+   :words [{:finnish "rakennus"
+            :english "building"}
+           {:finnish "museo"
+            :english "museum"}
+           {:finnish "monumentti"
+            :english "monument"}
+           {:finnish "teatteri"
+            :english "theater"}
+           {:finnish "stadion"
+            :english "stadium"}
+           {:finnish "kirkko"
+            :english "church"}
+           {:finnish "linna"
+            :english "castle"}
+           {:finnish "puisto"
+            :english "park"}
+           {:finnish "silta"
+            :english "bridge"}
+           {:finnish "oopperatalo"
+            :english "opera house"}
+           {:finnish "kahvila"
+            :english "café"}
+           {:finnish "tori"
+            :english "market square"}
+           {:finnish "kartta"
+            :english "map"}
+           {:finnish "outo"
+            :english "strange, weird"}
+           {:finnish "oikea"
+            :english "right (adjective)"}
+           {:finnish "väärä"
+            :english "wrong (adjective)"}
+           {:finnish "sama"
+            :english "(the) same"}
+           {:finnish "auki"
+            :english "open"}
+           {:finnish "kiinni"
+            :english "closed"}
+           {:finnish "mikä"
+            :english "what, which"}
+           {:finnish "melko"
+            :english "pretty, rather"}
+           {:finnish "liian"
+            :english "too (determiner)"}
+           {:finnish "ehkä"
+            :english "maybe"}
+           {:finnish "taas"
+            :english "again"}
+           {:finnish "täällä"
+            :english "over here"}
+           {:finnish "tuolla"
+            :english "over there"}
+           {:finnish "kaukana"
+            :english "far away"}
+           {:finnish "lähellä"
+            :english "close, near"}
+           {:finnish "voi ei"
+            :english "oh no"}
+           {:finnish "oho"
+            :english "oh wow, oops"}]}]
+
+ :unit2
+ [{:name  "Fridge"
+   :words [{:finnish "ruoka"
+            :english "food"}
+           {:finnish "mehu"
+            :english "juice"}
+           {:finnish "maito"
+            :english "milk"}
+           {:finnish "juusto"
+            :english "cheese"}
+           {:finnish "limonati"
+            :english "soda pop"}
+           {:finnish "liha"
+            :english "meat"}
+           {:finnish "kana"
+            :english "chicken"}
+           {:finnish "jäätelö"
+            :english "ice cream"}
+           {:finnish "mämmi"
+            :english "mämmi, sweet rye pudding"}
+           {:finnish "pullo"
+            :english "bottle (of)"}
+           {:finnish "luppo"
+            :english "the end, out of"}
+           {:finnish "litra"
+            :english "liter (of), 33.8 oz."}
+           {:finnish "kilo"
+            :english "kilo (gram of), 2.2 lb"}
+           {:finnish "kotona"
+            :english "at home"}
+           {:finnish "makea"
+            :english "sweet (taste)"}
+           {:tags    [:color]
+            :finnish "oranssi"
+            :english "orange (color)"}
+           {:finnish "liikaa"
+            :english "too much"}
+           {:finnish "tarpeeksi"
+            :english "enough"}
+           {:finnish "hyi"
+            :english "eww, yuck"}]}
+
+  {:name  "Languages 2"
+   :words [{:finnish "touristi"
+            :english "tourist"}
+           {:finnish "insinööri"
+            :english "engineer"}
+           {:finnish "muusikko"
+            :english "musician"}
+           {:finnish "professori"
+            :english "professor"}
+           {:finnish "afrikkalainen"
+            :english "African"}
+           {:finnish "ahkera"
+            :english "hardworking, diligent, conscientious"}
+           {:finnish "sujuva"
+            :english "fluent"}
+           {:finnish "älykäs"
+            :english "intelligent"}
+           {:tags    [:verb]
+            :finnish "puhua"
+            :english "to speak, to talk"}
+           {:finnish "tai"
+            :english "or (inclusive)"}
+           {:finnish "moni"
+            :english "many"}
+           {:finnish "myös"
+            :english "also, too, as well"}
+           {:finnish "vain"
+            :english "only"}
+           {:finnish "vähän"
+            :english "a bit of, a little bit of, a little"}]}
+
+  {:name  "Home 2"
+   :words [{:finnish "tuoli"
+            :english "chair"}
+           {:finnish "lattia"
+            :english "floor (the type you stand on)"}
+           {:finnish "lamppu"
+            :english "lamp"}
+           {:finnish "taulu"
+            :english "picture, painting (decorative element)"}
+           {:finnish "katto"
+            :english "roof, ceiling"}
+           {:finnish "kello"
+            :english "clock, watch"}
+           {:finnish "hiki"
+            :english "sweat"}
+           {:finnish "halpa"
+            :english "cheap"}
+           {:finnish "sotkuinen"
+            :english "messy"}
+           {:finnish "siisti"
+            :english "tidy"}
+           {:finnish "rikki"
+            :english "broken"}
+           {:tags    [:verb]
+            :finnish "maalata"
+            :english "to paint"}
+           {:tags    [:verb]
+            :finnish "korjata"
+            :english "to fix, to repair"}
+           {:tags    [:verb]
+            :finnish "siivota"
+            :english "to clean (up), to tidy up"}
+           {:tags    [:verb]
+            :finnish "tiskata"
+            :english "to do the dishes"}
+           {:tags    [:verb]
+            :finnish "grillata"
+            :english "to grill, to barbecue"}
+           {:tags    [:verb]
+            :finnish "tajuta"
+            :english "to realize"}
+           {:finnish "koska"
+            :english "because"}
+           {:finnish "että"
+            :english "that (conjunction)"}]}
+
+  {:name  "Know-How"
+   :words [{:finnish "tango"
+            :english "tango"}
+           {:finnish "tanssija"
+            :english "dancer"}
+           {:finnish "laulaja"
+            :english "singer"}
+           {:finnish "kanadalainen"
+            :english "Canadian (adjective/person)"}
+           {:finnish "amerikkalainen"
+            :english "American (adjective/person)"}
+           {:tags    [:adjective]
+            :finnish "vakava"
+            :english "serious"}
+           {:tags    [:adjective]
+            :finnish "viisas"
+            :english "wise"}
+           {:tags    [:adjective]
+            :finnish "lahjakas"
+            :english "talented, gifted"}
+           {:tags    [:adjective]
+            :finnish "pitkä"
+            :english "long, tall (people)"}
+           {:tags    [:verb]
+            :finnish "osata"
+            :english "to know how to, to have knowledge of"}
+           {:tags    [:verb]
+            :finnish "piirtää"
+            :english "to draw"}
+           {:tags    [:verb]
+            :finnish "lukea"
+            :english "to read"}
+           {:tags    [:verb]
+            :finnish "kirjoittaa"
+            :english "to write"}
+           {:tags    [:verb]
+            :finnish "ratsastaa"
+            :english "to ride (an animal, usually a horse)"}
+           {:finnish "joka"
+            :english "who, which (relative)"}
+           {:finnish "sekä-että"
+            :english "both-and"}
+           {:finnish "kuinka"
+            :english "how"}
+           {:finnish "tosi"
+            :english "really (determiner; spoken language)"}
+           {:finnish "hyvin"
+            :english "well"}
+           {:finnish "hiljaa"
+            :english "quietly"}
+           {:finnish "hys"
+            :english "shh, hush"}]}
+
+  {:name  "Coffee"
+   :words [{:finnish "tee"
+            :english "tea"}
+           {:finnish "sokeri"
+            :english "sugar"}
+           {:finnish "kerma"
+            :english "cream"}
+           {:finnish "pirtelö"
+            :english "milkshake"}
+           {:finnish "glögi"
+            :english "glögi, glogg (hot, spicy drink drunk in northern Europe)"}
+           {:finnish "jäätelö"
+            :english "ice cream"}
+           {:finnish "leipä"
+            :english "bread"}
+           {:finnish "kakku"
+            :english "cake"}
+           {:finnish "pala"
+            :english "piece (of), slice (of), morsel (of)"}
+           {:finnish "kuppi"
+            :english "cup (of)"}
+           {:finnish "pehmeä"
+            :english "soft"}
+           {:finnish "tumma"
+            :english "dark"}
+           {:finnish "juotava"
+            :english "drinkable"}
+           {:finnish "syötävä"
+            :english "edible"}
+           {:tags    [:verb]
+            :finnish "juoda"
+            :english "to drink"}
+           {:tags    [:verb]
+            :finnish "syödä"
+            :english "to eat"}
+           {:tags    [:verb]
+            :finnish "haluta"
+            :english "to want"}
+           {:finnish "mitä"
+            :english "(of) what"}
+           {:finnish "jotain"
+            :english "(of) something"}
+           {:finnish "lisää"
+            :english "more"}
+           {:finnish "nam"
+            :english "yum"}]}
+
+  {:name  "Meow!"
+   :words [{:finnish "kana"
+            :english "hen, chicken"}
+           {:finnish "lehmä"
+            :english "cow"}
+           {:finnish "pöllö"
+            :english "owl"}
+           {:finnish "lintu"
+            :english "bird"}
+           {:finnish "karhu"
+            :english "bear"}
+           {:finnish "siivi"
+            :english "hedgehog"}
+           {:finnish "orava"
+            :english "squirrel"}
+           {:tags    [:adjective]
+            :finnish "likainen"
+            :english "dirty"}
+           {:tags    [:adjective]
+            :finnish "painava"
+            :english "heavy"}
+           {:tags    [:color]
+            :finnish "ruskea"
+            :english "brown"}
+           {:finnish "eri"
+            :english "different, another, some other"}
+           {:tags    [:verb]
+            :finnish "sanoa"
+            :english "to say"}
+           {:tags    [:verb]
+            :finnish "etsiä"
+            :english "to look for, to search"}
+           {:tags    [:verb]
+            :finnish "pestä"
+            :english "to wash"}
+           {:tags    [:verb]
+            :finnish "murista"
+            :english "to growl"}
+           {:tags    [:verb]
+            :finnish "puraista"
+            :english "to bite"}
+           {:tags    [:verb]
+            :finnish "potkaista"
+            :english "to kick"}
+           {:tags    [:verb]
+            :finnish "nousta"
+            :english "to rise, to arise"}
+           {:finnish "nousta ylös"
+            :english "to get up"}
+           {:tags    [:verb]
+            :finnish "haista"
+            :english "to smell"}
+           {:tags    [:verb]
+            :finnish "juosta"
+            :english "to run"}
+           {:tags    [:verb]
+            :finnish "yrittää"
+            :english "to try"}
+           {:finnish "nämä"
+            :english "these"}
+           {:finnish "nuo"
+            :english "those"}
+           {:finnish "ketkä"
+            :english "who (nom. plural; question word)"}
+           {:finnish "ylös"
+            :english "up"}
+           {:finnish "pulassa"
+            :english "in trouble"}
+           {:finnish "hau hau"
+            :english "woof (sound)"}
+           {:finnish "miau"
+            :english "meow (sound)"}
+           {:finnish "huhuu"
+            :english "hoot (sound)"}
+           {:finnish "kot kot"
+            :english "cluck cluck (sound)"}
+           {:finnish "muu"
+            :english "moo (sound)"}
+           {:finnish "röh"
+            :english "oink (sound)"}
+           {:finnish "titityy"
+            :english "tititee, tweet tweet (sound)"}
+           {:finnish "ihahaa"
+            :english "neigh"}
+           {:finnish "mur"
+            :english "growl (sound)"}]}
+
+  {:name  "Europe"
+   :words [{:finnish "Norja"
+            :english "Norway"}
+           {:finnish "Tanska"
+            :english "Denmark"}
+           {:finnish "Ruotsi"
+            :english "Sweden"}
+           {:finnish "Viro"
+            :english "Estonia"}
+           {:finnish "Espanja"
+            :english "Spain"}
+           {:finnish "Saksa"
+            :english "Germany"}
+           {:finnish "Unkari"
+            :english "Hungary"}
+           {:finnish "Ranska"
+            :english "France"}
+           {:finnish "Italia"
+            :english "Italy"}
+           {:finnish "Sveitsi"
+            :english "Switzerland"}
+           {:finnish "Puola"
+            :english "Poland"}
+           {:finnish "Oslo"
+            :english "Oslo"}
+           {:finnish "Tallinna"
+            :english "Tallinn"}
+           {:finnish "Berliini"
+            :english "Berlin"}
+           {:finnish "Pariisi"
+            :english "Paris"}
+           {:finnish "Lontoo"
+            :english "London"}
+           {:finnish "Rooma"
+            :english "Rome"}
+           {:finnish "Praha"
+            :english "Prague"}
+           {:finnish "paikka"
+            :english "place"}
+           {:finnish "aika"
+            :english "time"}
+           {:tags    [:verb]
+            :finnish "asua"
+            :english "to live (in some place)"}
+           {:tags    [:verb]
+            :finnish "käydä"
+            :english "to visit"}
+           {:tags    [:verb]
+            :finnish "viettää"
+            :english "to spend (time, vacation)"}
+           {:finnish "enemmän"
+            :english "more (not enough)"}
+           {:finnish "nykyään"
+            :english "nowadays"}]}
+
+  {:name  "Pets 2"
+   :words [{:finnish "eläin"
+            :english "animal"}
+           {:finnish "pentu"
+            :english "puppy, kitten, cub"}
+           {:finnish "hamsteri"
+            :english "hamster"}
+           {:finnish "hevonen"
+            :english "horse"}
+           {:finnish "sika"
+            :english "pig"}
+           {:finnish "kala"
+            :english "fish"}
+           {:tags    [:adjective]
+            :finnish "villi"
+            :english "wild"}
+           {:tags    [:adjective]
+            :finnish "nätti"
+            :english "pretty (adjective)"}
+           {:tags    [:adjective]
+            :finnish "täydellinen"
+            :english "perfect"}
+           {:tags    [:adjective]
+            :finnish "ystävällinen"
+            :english "friendly"}
+           {:tags    [:adjective]
+            :finnish "vihainen"
+            :english "angry"}
+           {:tags    [:adjective]
+            :finnish "pörröinen"
+            :english "fluffy"}
+           {:tags    [:verb]
+            :finnish "omistaa"
+            :english "to own, to have property"}
+           {:tags    [:number]
+            :finnish "yksi"
+            :english "one"}
+           {:tags    [:number]
+            :finnish "kaksi"
+            :english "two"}
+           {:tags    [:number]
+            :finnish "kolme"
+            :english "three"}
+           {:tags    [:number]
+            :finnish "neljä"
+            :english "four"}
+           {:tags    [:number]
+            :finnish "viisi"
+            :english "five"}
+           {:tags    [:number]
+            :finnish "kuusi"
+            :english "six"}
+           {:tags    [:number]
+            :finnish "seitsemän"
+            :english "seven"}
+           {:tags    [:number]
+            :finnish "kahdeksan"
+            :english "eight"}
+           {:tags    [:number]
+            :finnish "yhdeksän"
+            :english "nine"}
+           {:tags    [:number]
+            :finnish "kymmenen"
+            :english "ten"}
+           {:finnish "sillã"
+            :english "it (has)"}
+           {:finnish "kenellã"
+            :english "who (has) (question)"}
+           {:finnish "jolla"
+            :english "who/which (has) (relative)"}
+           {:finnish "monta"
+            :english "many (partitive)"}
+           {:finnish "montako"
+            :english "how many (partitive)"}
+           {:finnish "ainakin"
+            :english "at least"}]}
+
+  {:name  "World"
+   :words [{:finnish "hindi"
+            :english "Hindi (language)"}
+           {:finnish "venäjä"
+            :english "Russian (language)"}
+           {:finnish "Kanada"
+            :english "Canada"}
+           {:finnish "Japani"
+            :english "Japan"}
+           {:finnish "Argentiina"
+            :english "Argentina"}
+           {:finnish "Skandinavia"
+            :english "Skandinavia"}
+           {:finnish "australialainen"
+            :english "Australian"}
+           {:finnish "koti-ikävä"
+            :english "home sickness"}
+           {:tags    [:verb]
+            :finnish "eksyä"
+            :english "to get lost"}
+           {:finnish "ei"
+            :english "no (auxiliary verb)"}
+           {:finnish "enää"
+            :english "no longer, anymore"}
+           {:finnish "koskaan"
+            :english "never, ever"}
+           {:finnish "vaan"
+            :english "but"}
+           {:finnish "vaikka"
+            :english "although"}]}
+
+  {:name  "Wild"
+   :words [{:finnish "Australia"
+            :english "Australia"}
+           {:finnish "Egypti"
+            :english "Egypt"}
+           {:finnish "koala"
+            :english "koala"}
+           {:finnish "kenguru"
+            :english "kangaroo"}
+           {:finnish "kameli"
+            :english "camel"}
+           {:finnish "krokotiili"
+            :english "crocodile"}
+           {:finnish "ahma"
+            :english "wolwerine"}
+           {:finnish "ilves"
+            :english "lynx"}
+           {:finnish "poro"
+            :english "reindeer"}
+           {:finnish "puu"
+            :english "tree"}
+           {:finnish "metsä"
+            :english "forest"}
+           {:finnish "kasvi"
+            :english "plant"}
+           {:finnish "marja"
+            :english "berry"}
+           {:finnish "kukka"
+            :english "flower"}
+           {:finnish "maa"
+            :english "soil, ground"}
+           {:finnish "jää"
+            :english "ice"}
+           {:finnish "puro"
+            :english "creek, brook, stream"}
+           {:finnish "järvi"
+            :english "lake"}
+           {:finnish "kivi"
+            :english "stone, rock"}
+           {:finnish "piilo"
+            :english "hiding place"}
+           {:tags    [:color]
+            :finnish "harmaa"
+            :english "grey"}
+           {:tags    [:adjective]
+            :finnish "myrkyllinen"
+            :english "poisonous, venomous"}
+           {:finnish "koko"
+            :english "the whole"}
+           {:tags    [:verb]
+            :finnish "elää"
+            :english "to live, to be alive"}
+           {:tags    [:verb]
+            :finnish "kävellä"
+            :english "to walk"}
+           {:tags    [:verb]
+            :finnish "hymyillä"
+            :english "to smile"}
+           {:tags    [:verb]
+            :finnish "haistella"
+            :english "to sniff, to smell at"}
+           {:tags    [:verb]
+            :finnish "kuulla"
+            :english "to hear"}
+           {:finnish "yleensä"
+            :english "usually"}
+           {:finnish "pois"
+            :english "away"}
+           {:finnish "keskellä"
+            :english "in the middle of"}]}
+
+  #_
+  {:name  "Love"
+   :words [{:finnish ""
+            :english ""}
+           {:finnish ""
+            :english ""}]}
+
+  #_
+  {:name  "Yummy!"
+   :words [{:finnish ""
+            :english ""}
+           {:finnish ""
+            :english ""}]}
+
+  #_
+  {:name  "O'Clock"
+   :words [{:finnish ""
+            :english ""}
+           {:finnish ""
+            :english ""}]}
+
+  #_
+  {:name  ""
+   :words [{:finnish ""
+            :english ""}
+           {:finnish ""
+            :english ""}]}]}

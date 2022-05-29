@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+/out
+profiles.clj
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.idea/
+.cpcache/
+.cljs_node_repl/
+node_modules/
+*.iml
